@@ -1,2 +1,20 @@
 # Modeling Human Perceptual Inference by Drift Diffusion Model and Neural Network
 ## NeuromatchProject
+
+![image](https://github.com/sajjadrezvani/NeuromatchProject/assets/100838219/7297ade6-d3cd-4570-95d3-891e8ff8a205)
+
+![image](https://github.com/sajjadrezvani/NeuromatchProject/assets/100838219/ff398a18-5d88-44c1-be2e-2ee0dd34142b)
+
+![image](https://github.com/sajjadrezvani/NeuromatchProject/assets/100838219/12e87e42-2eac-44a8-be80-30435866eba6)
+
+![image](https://github.com/sajjadrezvani/NeuromatchProject/assets/100838219/b7870918-c61a-49eb-889d-2b502aa44479)
+
+![image](https://github.com/sajjadrezvani/NeuromatchProject/assets/100838219/a4fd5b6a-7433-4634-aa5c-e71bfc35615e)
+
+![image](https://github.com/sajjadrezvani/NeuromatchProject/assets/100838219/99d22f0c-51f1-416d-8863-c11ccb8cec94)
+
+![image](https://github.com/sajjadrezvani/NeuromatchProject/assets/100838219/d1a3dbff-5b02-46e3-8d33-aa2446b3f155)
+
+![image](https://github.com/sajjadrezvani/NeuromatchProject/assets/100838219/c4b967fe-4f0e-409e-9325-92a03e715194)
+
+
