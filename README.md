@@ -17,4 +17,10 @@
 
 ![image](https://github.com/sajjadrezvani/NeuromatchProject/assets/100838219/c4b967fe-4f0e-409e-9325-92a03e715194)
 
+<br>0.06 motion coherence<br>
+![image](https://github.com/sajjadrezvani/NeuromatchProject/assets/63340593/1f96a427-94e3-4fca-b18a-b8bfe0ba687b)
+
+<br>0.24 motion coherence<br>
+![image](https://github.com/sajjadrezvani/NeuromatchProject/assets/63340593/806bb50d-d7cf-43e1-856b-2123f04eab3f)
+
 
