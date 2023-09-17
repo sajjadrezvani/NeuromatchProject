@@ -1,6 +1,6 @@
-# Modeling Human Perceptual Inference by Drift Diffusion Model and Neural Network
-## NeuromatchProject
+# Modeling Human Perceptual Inference by Drift Diffusion Model and Neural Network (NeuromatchProject)
 
+### We modeled the Laquitaine & Gardner database about human motion direction estimation errors 
 ![image](https://github.com/sajjadrezvani/NeuromatchProject/assets/100838219/7297ade6-d3cd-4570-95d3-891e8ff8a205)
 
 ![image](https://github.com/sajjadrezvani/NeuromatchProject/assets/100838219/ff398a18-5d88-44c1-be2e-2ee0dd34142b)
