@@ -35,3 +35,10 @@
 
 #### 0.24 motion coherence
   ![Image](https://github.com/sajjadrezvani/NeuromatchProject/assets/63340593/806bb50d-d7cf-43e1-856b-2123f04eab3f)
+
+
+# Acknowledgements
+We would like to express our gratitude to the contributors of the paper ["A Switching Observer for Human Perceptual"](https://github.com/sajjadrezvani/NeuromatchProject/blob/575a6231e687591b4ee58bd4b08ce8f1af0cda84/Related%20Works/A%20Switching%20Observer%20for%20Human%20Perceptual.pdf) 
+for their valuable work and for making their datasets publicly available for research purposes. We acknowledge their efforts in collecting the data, which greatly contributed to the development of our model.
+
+We also thank the organizers of the Neuromatch Academy for providing the opportunity to conduct this research. Their dedication to studying and working in the field of computational neuroscience has been a driving force behind our project.
