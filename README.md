@@ -1,4 +1,9 @@
-# Modeling Human Perceptual Inference with the Drift Diffusion Model and Neural Network (NeuromatchProject)
+# Modeling Human Perceptual Inference with the Drift Diffusion Model and Neural Networks (NeuromatchProject)
+
+## Abstract
+Bayesian principles have been applied to model human perceptual estimation (Laquitaine et al.). Subjects were tested in a motion direction estimation task where motion evidence strength and priors were manipulated. The mean and variance of estimates agreed with a Bayesian model, but full estimate distributions were bimodal, violating Bayesian predictions. A Switching model that chooses between prior and evidence better fits the data. The results suggest that human perceptual inference follows Bayesian principles on average but uses a heuristic approximation that does not fully integrate priors and likelihoods. This shows optimal Bayesian computations may be approximated in the brain through simpler mechanisms.
+The Drift Diffusion Model (DDM) is a mathematical framework used to model the decision-making processes in cognitive psychology and neuroscience. It provides a theoretical account of how humans and other organisms make simple perceptual decisions in a **Binary** scenario, where they should choose between two alternatives based on sensory evidence.
+Now we are trying to fit the Drift Diffusion Model to behavioral data obtained from decision-making experiments to estimate parameters like the drift rate, decision threshold, and non-decisional components (e.g., motor response time) and finally model human decision-making in perceptual inference. As our main dataset and its experiment have conditions of DDM, which are fast, and uncertain, we only need to binarize the decisions here. Several important parameters like drift rate(v), threshold(a), bias(z), and non_dicision time(t) should be defined. Useful features like reaction_time, prior mean, and trial time exist in the dataset that can be helpful in our modeling process. We also modeled the human perceptual inference using deep neural networks for further experiments.
 
 ## Modeling the Laquitaine & Gardner database on human motion direction estimation errors
 
